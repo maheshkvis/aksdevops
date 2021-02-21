@@ -19,3 +19,4 @@ jobs:
           registry: ${{ secrets.ACR_NAME }}
           repository: contoso-website
           tags: latest
+          dockerfile: ${{path}}/demoaks/Dockerfile
