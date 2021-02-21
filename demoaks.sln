@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoaks", "demoaks\demoaks.csproj", "{C4567712-1001-415A-BFBB-402A51ECD56B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4567712-1001-415A-BFBB-402A51ECD56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4567712-1001-415A-BFBB-402A51ECD56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4567712-1001-415A-BFBB-402A51ECD56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4567712-1001-415A-BFBB-402A51ECD56B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170C39E5-B7CF-400B-8930-43B0509E9FFF}
+	EndGlobalSection
+EndGlobal
